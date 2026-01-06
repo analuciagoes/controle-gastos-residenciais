@@ -7,7 +7,7 @@ function App() {
     <div style={{ fontFamily: 'system-ui', padding: 24 }}>
       <h1>Controle de Gastos Residenciais</h1>
       <p>Frontend React + TypeScript (Vite)</p>
-      <button onClick={() => setCount((c) => c + 1)}>Clique ({count})</button>
+      <button onClick={() => setCount((c) => c + 5)}>Clique ({count})</button>
     </div>
   )
 }
